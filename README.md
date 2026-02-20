@@ -86,5 +86,21 @@ Top products have high revenue concentration.
 
 Consumer segment dominates total sales.
 
+🚀 How to Run the Project
+
+Clone the repository
+
+Install required libraries:
+
+pip install pandas matplotlib seaborn
+
+Run the Python script:
+
+python P-1.py
+
+Charts will automatically save in the project folder.
+
+Python Version: 3.10+
+
 ## 📎 Author
 Renuka Tandulkar
